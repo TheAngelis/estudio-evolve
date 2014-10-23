@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"cd ..",
+			"cd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/de4ngelis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/de4ngelis/Downloads/performer/blog_full.html",
+		"/Users/de4ngelis/Sites/Wordpress/fullscene-portfolio-photography-wp-theme/FullScene-v1.3/fullscene/functions.php",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/style.css",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/css/dark.css",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/header.php",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/css/layout.css",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/template-portfolio.php",
+		"/Users/de4ngelis/Sites/Kaltura_evolve/Kaltura.html",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/css/skeleton.css",
+		"/Users/de4ngelis/Sites/Punch_v1.5.2/Theme Files/punch_alterado/css/base.css",
+		"/Users/de4ngelis/Downloads/Bill George e as 7 lições sobre liderança.srt",
+		"/Applications/MAMP/htdocs/phpsugar/PHPMelody/config.php",
+		"/Volumes/MADFX/VIDEO/2013/HSM/0051_ONLINE_LANCAMENTO/06_OUTPUT/LEGENDAS/legendas_dropbox/00509-Vijay-Sessao1-legenda.srt",
+		"/Volumes/MADFX/VIDEO/2013/HSM/0051_ONLINE_LANCAMENTO/06_OUTPUT/LEGENDAS/00543_L01_2013_John Davis_ Sessao1.srt",
+		"/Applications/MAMP/htdocs/opencart/upload/config.php",
+		"/Volumes/MADFX/VIDEO/2013/HSM/0051_ONLINE_LANCAMENTO/06_OUTPUT/LEGENDAS/00511_L01_2012_PALESTRA_2A_FORUM_HSM_DE_ESTRATEGIA_CHRIS_ZOOK_PXED_V01.srt",
+		"/Applications/MAMP/htdocs/bayer_news/novembro/BAYER_NEWS_NOVEMBRO/index.php",
+		"/Users/de4ngelis/Desktop/00511_L01_2012_PALESTRA_2A_FORUM_HSM_DE_ESTRATEGIA_CHRIS_ZOOK_PXED_V02.srt",
+		"/Users/de4ngelis/Desktop/EVOLVE.html",
+		"/Applications/MAMP/htdocs/bayer_news/outubro/BAYER_NEWS_OUTUBRO/index.php",
+		"/Users/de4ngelis/Desktop/webcaster.html",
+		"/Applications/MAMP/htdocs/bayer_news/junho/BAYER_NEWS_JUNHO/index.php",
+		"/Users/de4ngelis/Sites/Wordpress/fullscene-portfolio-photography-wp-theme/FullScene-v1.3/fullscene/css/dark.css",
+		"/Applications/MAMP/htdocs/synergy/html/features/full_width_text_and_video.html",
+		"/Applications/MAMP/htdocs/synergy/js/mc.modules.animation.min.js",
+		"/Applications/MAMP/htdocs/synergy/html/our_projects/4_columns_projects.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"logo",
+			"four columns alpha",
+			"logo",
+			"nav",
+			"border-bottom",
+			"portfolio-filter-wrap",
+			"wrap",
+			"sixteen",
+			"header",
+			"tit",
+			"1px",
+			"giuseppe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
